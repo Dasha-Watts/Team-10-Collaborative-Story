@@ -5,4 +5,4 @@ The writer sat staring at the screen unsure of what to make of it. I was somethi
 
 Then out of no where there was a flash of light in the from the screen. The writer jump and this new uncertainty but it really 
 
-[Chapter 1](Team-10-Collaborative-Story/blob/main/chapter1.py)
+[Chapter 1](/chapter1.py)
