@@ -10,3 +10,5 @@ Then out of no where there was a flash of light in the from the screen. The writ
 [Chapter 2](/chapter_2.py)
 
 [Chapter 3](/chapter3.py)
+
+[Chapter 4](/chapter_4.py)
